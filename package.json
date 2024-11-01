@@ -1,0 +1,11 @@
+{
+    "name": "slow-dependency-nifflets",
+    "version": "0.1",
+    "description": "Introduces a delay to npm install (for test purposes)",
+    "main": "src/index.js",
+    "author": "Nifflets",
+    "license": "ISC",
+    "scripts": {
+        "install": "node install.js"
+    }
+}
